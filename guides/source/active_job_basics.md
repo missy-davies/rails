@@ -496,7 +496,7 @@ If an exception from a job is not rescued, then the job is referred to as "faile
 
 [`rescue_from`]: https://api.rubyonrails.org/classes/ActiveSupport/Rescuable/ClassMethods.html#method-i-rescue_from
 
-### Retrying or Discarding failed jobs
+### Retrying or Discarding Failed Jobs
 
 A failed job will not be retried, unless configured otherwise.
 
